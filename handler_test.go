@@ -9,7 +9,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/gin-gonic/gin"
+	"github.com/PHPDevsr/gin-forked"
 	"github.com/stretchr/testify/assert"
 )
 

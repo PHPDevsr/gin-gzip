@@ -3,10 +3,10 @@ name: Run Tests
 on:
   push:
     branches:
-      - master
+      - develop
   pull_request:
     branches:
-      - master
+      - develop
 
 jobs:
   lint:
@@ -30,8 +30,8 @@ jobs:
   test:
     strategy:
       matrix:
-        os: [ubuntu-latest]
-        go: [1.23, 1.24]
+        os: ["ubuntu-latest", "macos-latest"]
+        go: ["1.24.1", "1.24.4"]
         include:
           - os: ubuntu-latest
             go-build: ~/.cache/go-build
