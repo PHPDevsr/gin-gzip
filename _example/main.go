@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gin-contrib/gzip"
-	"github.com/gin-gonic/gin"
+	"github.com/PHPDevsr/gin-forked"
+	gzip "github.com/PHPDevsr/gin-gzip"
 )
 
 func main() {

@@ -1,10 +1,10 @@
-module github.com/gin-contrib/gzip
+module github.com/PHPDevsr/gin-gzip
 
 go 1.24.0
 
 require (
-	github.com/gin-gonic/gin v1.11.0
-	github.com/stretchr/testify v1.11.1
+	github.com/PHPDevsr/gin-forked v1.0.0
+	github.com/stretchr/testify v1.10.0
 )
 
 require (

@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/gin-gonic/gin"
+	"github.com/PHPDevsr/gin-forked"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -3,8 +3,8 @@ module example
 go 1.24.0
 
 require (
-	github.com/gin-contrib/gzip v1.1.0
-	github.com/gin-gonic/gin v1.11.0
+	github.com/PHPDevsr/gin-gzip v1.1.0
+	github.com/PHPDevsr/gin-forked v1.10.0
 )
 
 require (
@@ -42,4 +42,4 @@ require (
 	google.golang.org/protobuf v1.36.10 // indirect
 )
 
-replace github.com/gin-contrib/gzip => ../
+replace github.com/PHPDevsr/gin-gzip => ../
