@@ -1,7 +1,7 @@
 # GZIP gin's middleware
 
 [![Run Tests](https://github.com/PHPDevsr/gin-gzip/actions/workflows/go.yml/badge.svg)](https://github.com/PHPDevsr/gin-gzip/actions/workflows/go.yml)
-[![codecov](https://codecov.io/gh/gin-contrib/gzip/branch/master/graph/badge.svg)](https://codecov.io/gh/gin-contrib/gzip)
+[![codecov](https://codecov.io/gh/PHPDevsr/gin-gzip/branch/master/graph/badge.svg)](https://codecov.io/gh/PHPDevsr/gin-gzip)
 [![Go Report Card](https://goreportcard.com/badge/github.com/PHPDevsr/gin-gzip)](https://goreportcard.com/report/github.com/PHPDevsr/gin-gzip)
 [![GoDoc](https://godoc.org/github.com/PHPDevsr/gin-gzip?status.svg)](https://godoc.org/github.com/PHPDevsr/gin-gzip)
 
