@@ -113,7 +113,7 @@ jobs:
           fail-on-alert: false
           github-token: ${{ secrets.GITHUB_TOKEN }}
           summary-always: true
-          alert-threshold: "150%"
+          alert-threshold: "120%"
 
       - name: Publish Benchmark Results to GitHub Pages
         uses: benchmark-action/github-action-benchmark@v1.20.4
